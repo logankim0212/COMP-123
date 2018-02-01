@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D6B127E1-279B-4832-B94F-B8773D3B2C31}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise-01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise-01/Exercise-01.cs">
+    <Files>
+      <File FileName="Exercise-01/Exercise-01.cs" Line="35" Column="29" />
+      <File FileName="Exercise-02/Exercise-02.cs" Line="23" Column="25" />
+      <File FileName="Exercise-03/Exercise-03.cs" Line="45" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Exercise-02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercise-03 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
