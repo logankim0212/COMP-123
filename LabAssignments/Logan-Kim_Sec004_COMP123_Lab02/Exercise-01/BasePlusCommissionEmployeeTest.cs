@@ -109,7 +109,7 @@ namespace Exercise01
             int intEmployeeID = 0;
             bool num = Int32.TryParse(EmployeeID, out intEmployeeID);
 
-            // Error conditions
+            // Print error conditions
             if (FirstName.Length == 0)
             {
                 return string.Format("You didn't enter the first name.");
@@ -134,7 +134,7 @@ namespace Exercise01
             {
                 return string.Format("Commission rate should be between 0.1 and 1.0%.");
             } // end if
-            // end error conditions
+            // end print error conditions
 
             return string.Format("First Name: {0} \nLast Name: {1} \nEmployee" +
                                  " ID: {2} \nBase Salary: {3:C} \nGross Sales:" +
