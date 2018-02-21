@@ -13,7 +13,7 @@ namespace Exercise01
             // initialize the choice
             string choice;
 
-            // loop for continuing the program
+            // loop for continuing the program (instead of creating two objects)
             do
             {
                 // prompt user first name
@@ -51,7 +51,7 @@ namespace Exercise01
                 Console.WriteLine("Earnings with Base Salary: {0:C}", employee1.earnings());
 
                 // prompt if the user want to continue
-                Console.Write("Hit 'y' if you want to continue?: ");
+                Console.Write("Enter 'y' (without quotation marks) if you want to continue: ");
                 choice = Console.ReadLine();
             } while (choice.ToLower() == "y"); // end loop
         } // end main
